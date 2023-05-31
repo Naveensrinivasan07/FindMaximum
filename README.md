@@ -65,5 +65,6 @@ def max_marks(list1):
 
 
 
+
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
