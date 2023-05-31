@@ -59,8 +59,9 @@ def max_marks(list1):
 
 ## Output:
 ![output1](![OUTPUT](https://github.com/Naveensrinivasan07/FindMaximum/assets/119475891/0744ecae-9726-42a7-aca8-cfa0498679eb)
-![output2](![OUTPUT 2](https://github.com/Naveensrinivasan07/FindMaximum/assets/119475891/e968247b-2c58-48ce-8b82-5135c56f7e9b)
-![output3](![Uploading OUTPUT 3.png…]()
+![output2](![OUTPUT 3](https://github.com/Naveensrinivasan07/FindMaximum/assets/119475891/ae5f74b5-1402-4dcc-b307-fb43e21b9f2b)
+
+
 
 
 
