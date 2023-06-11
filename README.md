@@ -58,8 +58,10 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
-![output1](![OUTPUT](https://github.com/Naveensrinivasan07/FindMaximum/assets/119475891/0744ecae-9726-42a7-aca8-cfa0498679eb)
-![output2](![OUTPUT 3](https://github.com/Naveensrinivasan07/FindMaximum/assets/119475891/ae5f74b5-1402-4dcc-b307-fb43e21b9f2b)
+i) # To find the maximum of marks using the list method sort.
+ii) # To find the maximum marks using the list method max().
+iii) # To find the maximum marks without using builtin functions.
+
 
 
 
